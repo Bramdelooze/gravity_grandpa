@@ -1,0 +1,146 @@
+
+Scientist0.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Beard end
+  rotate: true
+  xy: 822, 59
+  size: 49, 36
+  orig: 49, 36
+  offset: 0, 0
+  index: -1
+Beard part
+  rotate: false
+  xy: 860, 29
+  size: 82, 59
+  orig: 82, 59
+  offset: 0, 0
+  index: -1
+Shock1
+  rotate: false
+  xy: 201, 61
+  size: 180, 193
+  orig: 180, 193
+  offset: 0, 0
+  index: -1
+Shock2
+  rotate: false
+  xy: 554, 110
+  size: 152, 144
+  orig: 152, 144
+  offset: 0, 0
+  index: -1
+Shock3
+  rotate: false
+  xy: 708, 110
+  size: 150, 144
+  orig: 150, 144
+  offset: 0, 0
+  index: -1
+auch
+  rotate: true
+  xy: 984, 108
+  size: 71, 32
+  orig: 71, 32
+  offset: 0, 0
+  index: -1
+backpack
+  rotate: false
+  xy: 2, 16
+  size: 197, 238
+  orig: 197, 238
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 860, 90
+  size: 122, 164
+  orig: 122, 164
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 530, 2
+  size: 86, 99
+  orig: 86, 99
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 383, 120
+  size: 169, 134
+  orig: 169, 134
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 944, 39
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 383, 23
+  size: 102, 95
+  orig: 102, 95
+  offset: 0, 0
+  index: -1
+lever
+  rotate: true
+  xy: 794, 2
+  size: 55, 31
+  orig: 55, 31
+  offset: 0, 0
+  index: -1
+lower arm
+  rotate: true
+  xy: 201, 16
+  size: 43, 99
+  orig: 43, 99
+  offset: 0, 0
+  index: -1
+lowerleg
+  rotate: true
+  xy: 725, 59
+  size: 49, 95
+  orig: 49, 95
+  offset: 0, 0
+  index: -1
+mhhm
+  rotate: true
+  xy: 984, 181
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+nuuu
+  rotate: false
+  xy: 302, 22
+  size: 69, 37
+  orig: 69, 37
+  offset: 0, 0
+  index: -1
+shoe
+  rotate: false
+  xy: 725, 17
+  size: 67, 40
+  orig: 67, 40
+  offset: 0, 0
+  index: -1
+upper arm
+  rotate: false
+  xy: 631, 16
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+upperleg
+  rotate: false
+  xy: 487, 2
+  size: 41, 116
+  orig: 41, 116
+  offset: 0, 0
+  index: -1
